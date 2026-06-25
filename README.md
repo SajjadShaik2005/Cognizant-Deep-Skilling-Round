@@ -1,6 +1,6 @@
 # 🚀 Cognizant Digital Nurture 5.0 - Java Full Stack Engineer (React)
 
-Welcome to my repository for the **Cognizant Digital Nurture 5.0 - Java Full Stack Engineer (FSE)** program. This repository contains my weekly hands-on exercises, assignments, notes, and projects completed during my learning journey.
+Welcome to my repository for the **Cognizant Digital Nurture 5.0 - Java Full Stack Engineer (FSE)** program. This repository contains my weekly hands-on  exercises, assignments, notes, and projects completed during my learning journey.
 
 ## 📚 Repository Contents
 
