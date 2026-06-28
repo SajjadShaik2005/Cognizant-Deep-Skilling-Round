@@ -28,7 +28,7 @@ Welcome to my repository for the **Cognizant Digital Nurture 5.0 - Java Full Sta
 | PL/SQL Programming | ✅ Completed |
 | Test Driven Development (JUnit & Mockito) | ✅ Completed |
 | SLF4J Logging | ✅ Completed |
-| Spring Core & Maven | 🔄 In Progress |
+| Spring Core & Maven | ✅ Completed |
 | Spring Data JPA & Hibernate | ⏳ Upcoming |
 | Spring REST | ⏳ Upcoming |
 | Microservices | ⏳ Upcoming |
